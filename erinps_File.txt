@@ -1,0 +1,2 @@
+This is a file created by Erin Paslawski - 10099039
+For Git features exercise, SENG 300 - T02 - W20
